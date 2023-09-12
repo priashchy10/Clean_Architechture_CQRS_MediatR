@@ -1,0 +1,15 @@
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\bin\Debug\net7.0\FoodManagement.Application.deps.json
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\bin\Debug\net7.0\FoodManagement.Application.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\bin\Debug\net7.0\FoodManagement.Application.pdb
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\bin\Debug\net7.0\FoodManagement.Core.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\bin\Debug\net7.0\FoodManagement.Core.pdb
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.csproj.AssemblyReference.cache
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.AssemblyInfoInputs.cache
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.AssemblyInfo.cs
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.csproj.CoreCompileInputs.cache
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.csproj.CopyComplete
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\refint\FoodManagement.Application.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\FoodManagement.Application.pdb
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Application\obj\Debug\net7.0\ref\FoodManagement.Application.dll

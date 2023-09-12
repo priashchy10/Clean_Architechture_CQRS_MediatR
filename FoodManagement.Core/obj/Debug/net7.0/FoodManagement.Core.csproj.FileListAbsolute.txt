@@ -1,0 +1,12 @@
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\bin\Debug\net7.0\FoodManagement.Core.deps.json
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\bin\Debug\net7.0\FoodManagement.Core.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\bin\Debug\net7.0\FoodManagement.Core.pdb
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.csproj.AssemblyReference.cache
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.AssemblyInfoInputs.cache
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.AssemblyInfo.cs
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.csproj.CoreCompileInputs.cache
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\refint\FoodManagement.Core.dll
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\FoodManagement.Core.pdb
+F:\Priash\Project\Clean Architechture Project\FoodManagement\FoodManagement.Core\obj\Debug\net7.0\ref\FoodManagement.Core.dll
