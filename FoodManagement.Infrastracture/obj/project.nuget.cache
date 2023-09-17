@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XxjT8F0eRTFy06ajqXVIeRRK0hZl/pPWwxlmZLuZEvRDMqeSDnWPtt3JX5HLP/ow3KEgZ+zDzU1hhO571ArbA==",
+  "dgSpecHash": "s140wq3l/JaMq8XX2uaujhfp98x0Zt9IcX7YciFiLJAW9GAFmpXqksWA8QnlwPV5Pn999jBdc+OypbMh3sWMrA==",
   "success": true,
-  "projectFilePath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj",
+  "projectFilePath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PRIASH\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PRIASH\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

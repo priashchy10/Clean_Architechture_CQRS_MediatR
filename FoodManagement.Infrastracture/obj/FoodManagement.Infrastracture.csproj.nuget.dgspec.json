@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj": {}
+    "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj": {}
   },
   "projects": {
-    "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Application\\FoodManagement.Application.csproj": {
+    "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Application\\FoodManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Application\\FoodManagement.Application.csproj",
+        "projectUniqueName": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Application\\FoodManagement.Application.csproj",
         "projectName": "FoodManagement.Application",
-        "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Application\\FoodManagement.Application.csproj",
+        "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Application\\FoodManagement.Application.csproj",
         "packagesPath": "C:\\Users\\PRIASH\\.nuget\\packages\\",
-        "outputPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Application\\obj\\",
+        "outputPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRIASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Core\\FoodManagement.Core.csproj": {
-                "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Core\\FoodManagement.Core.csproj"
+              "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Core\\FoodManagement.Core.csproj": {
+                "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Core\\FoodManagement.Core.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Core\\FoodManagement.Core.csproj": {
+    "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Core\\FoodManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Core\\FoodManagement.Core.csproj",
+        "projectUniqueName": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Core\\FoodManagement.Core.csproj",
         "projectName": "FoodManagement.Core",
-        "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Core\\FoodManagement.Core.csproj",
+        "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Core\\FoodManagement.Core.csproj",
         "packagesPath": "C:\\Users\\PRIASH\\.nuget\\packages\\",
-        "outputPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Core\\obj\\",
+        "outputPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRIASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj": {
+    "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj",
+        "projectUniqueName": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj",
         "projectName": "FoodManagement.Infrastracture",
-        "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj",
+        "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Infrastracture\\FoodManagement.Infrastracture.csproj",
         "packagesPath": "C:\\Users\\PRIASH\\.nuget\\packages\\",
-        "outputPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Infrastracture\\obj\\",
+        "outputPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Infrastracture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRIASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Application\\FoodManagement.Application.csproj": {
-                "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\FoodManagement\\FoodManagement.Application\\FoodManagement.Application.csproj"
+              "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Application\\FoodManagement.Application.csproj": {
+                "projectPath": "F:\\Priash\\Project\\Clean Architechture Project\\Clean_Architechture_CQRS_MediatR\\FoodManagement.Application\\FoodManagement.Application.csproj"
               }
             }
           }
