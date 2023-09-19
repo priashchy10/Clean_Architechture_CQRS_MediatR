@@ -1,1 +1,0 @@
-# Clean_Architechture_CQRS_MediatR
